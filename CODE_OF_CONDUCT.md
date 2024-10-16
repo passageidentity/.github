@@ -60,4 +60,4 @@ Please contact the Passage support team at support@passage.id if you need to rep
 You're encouraged to contact the admin team in cases where you're unsure if something is or isn't appropriate content. We are happy to provide guidance to help you be a successful part of our community.
 
 # Learn More
-Learn more at the [1Password Developer Community](https://developer.1password.com/code-of-conduct/).
+Passage by 1Password has more resources at our larger [1Password Developer Community](https://developer.1password.com/code-of-conduct/).
