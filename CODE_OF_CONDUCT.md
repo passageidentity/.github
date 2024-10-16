@@ -5,16 +5,16 @@ We want to encourage an environment that is friendly, safe, accepting, and free 
 
 To this end, certain behaviors and practices will not be tolerated.
 
-> [!TIP]
-> - Be respectful
-> - No solicitation
-> - Abusive behavior is never tolerated
->
-> Our community administrators are here to help:
-> - [Sara Teare (Co-founder)](https://1password-devs.slack.com/team/U032CAY0DAB)
-> - [Michael Carey](https://1password-devs.slack.com/team/U03KJ86AUS3)
->
-> Violations of this code may result in swift and permanent expulsion from the Passage GitHub Community.
+## TL;DR
+- Be respectful
+- No solicitation
+- Abusive behavior is never tolerated
+
+Our community administrators are here to help:
+- [Sara Teare (Co-founder)](https://1password-devs.slack.com/team/U032CAY0DAB)
+- [Michael Carey](https://1password-devs.slack.com/team/U03KJ86AUS3)
+
+Violations of this code may result in swift and permanent expulsion from the Passage GitHub Community.
 
 # Scope
 We expect all members of the Passage GitHub Community — including administrators, users, facilitators, and vendors — to abide by this Code of Conduct at all times. This Code of Conduct applies in all 1Password Developer community venues, both online and in person, including all public and private channels and one-on-one communications pertaining to 1Password Developer affairs.
