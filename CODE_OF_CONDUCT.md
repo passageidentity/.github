@@ -55,7 +55,7 @@ We will do our best to ensure that your grievance is handled appropriately.
 In general, we will choose the course of action that we judge as being most in the interest of fostering a safe and friendly community.
 
 # Contact Information
-Please contact any of the administrators listed at the top of this document if you need to report a problem or address a grievance related to an abuse report.
+Please contact the Passage support team at support@passage.id if you need to report a problem or address a grievance related to an abuse report.
 
 You're encouraged to contact the admin team in cases where you're unsure if something is or isn't appropriate content. We are happy to provide guidance to help you be a successful part of our community.
 
