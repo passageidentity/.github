@@ -48,7 +48,7 @@ Anyone asked to stop unacceptable behavior is expected to comply immediately.
 If a community member engages in unacceptable behavior, the 1Password Developer community administrators may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the community without warning (and without refund in the case of a paid event or service).
 
 # Addressing Grievances
-If you feel you have been falsely or unfairly accused of violating this Code of Conduct, please notify the 1Password Developers Slack Community admin team either by posting in [`#moderators`](https://1password-devs.slack.com/archives/C0331DJL882) or reaching out privately via DM to any of the administrators listed at the top of this document.
+If you feel you have been falsely or unfairly accused of violating this Code of Conduct, please notify the Passage Support Team at support@passage.id.
 
 We will do our best to ensure that your grievance is handled appropriately.
 
