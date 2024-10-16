@@ -5,7 +5,7 @@ We want to encourage an environment that is friendly, safe, accepting, and free 
 
 To this end, certain behaviors and practices will not be tolerated.
 
-> [!TL;DR]
+> [!TIP]
 > - Be respectful
 > - No solicitation
 > - Abusive behavior is never tolerated
