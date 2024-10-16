@@ -10,9 +10,8 @@ To this end, certain behaviors and practices will not be tolerated.
 - No solicitation
 - Abusive behavior is never tolerated
 
-Our community administrators are here to help:
-- [Sara Teare (Co-founder)](https://1password-devs.slack.com/team/U032CAY0DAB)
-- [Michael Carey](https://1password-devs.slack.com/team/U03KJ86AUS3)
+Reach out to Passage support for help:
+- support@passage.id
 
 Violations of this code may result in swift and permanent expulsion from the Passage GitHub Community.
 
