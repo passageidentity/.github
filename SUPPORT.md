@@ -62,7 +62,7 @@ We're always eager to chat! Whether you're looking for a demo or just have some 
 * [Blog](https://passage.1password.com/blog)
 * [Console](https://console.passage.id)
 * [Status](https://status.passage.id/)
-* [Security]()
+* [Security](./SECURITY.md)
 
 
 ## Looking for 1Password support?
