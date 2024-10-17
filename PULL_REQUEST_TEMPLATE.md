@@ -28,14 +28,6 @@ Please attach any screenshots that would help illustrate the changes.
 - [ ] New and existing integration and unit tests pass locally with my changes
 - [ ] Any dependent changes have been merged and published in downstream modules
 
-
-## Jira Ticket (Internal Only)
-
-Please add the Jira ticket number and link.
-
-- [ ] Jira Ticket: [PSG-XXXX](https://passage-identity.atlassian.net/browse/PSG-XXXX)
-
-
 ## Additional context
 
 Add any other context or screenshots about the pull request here.
