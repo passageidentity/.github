@@ -2,13 +2,11 @@
 
 ## What's New?
 
-Please include a summary of the changes and the related feature/issue. Please also include relevant motivation and context. List any dependencies that are required for this change.
-
+<!-- Please include a summary of the changes and the related feature/issue. Please also include relevant motivation and context. List any dependencies that are required for this change. -->
 
 ## Screenshots (if appropriate):
 
-Please attach any screenshots that would help illustrate the changes.
-
+<!-- Please attach any screenshots that would help illustrate the changes. -->
 
 ## Type of change
 
@@ -30,4 +28,4 @@ Please attach any screenshots that would help illustrate the changes.
 
 ## Additional context
 
-Add any other context or screenshots about the pull request here.
+<!-- Add any other context or screenshots about the pull request here. -->
