@@ -7,7 +7,7 @@
 </p>
 
 [Passage by 1Password](https://1password.com/product/passage) unlocks the passwordless future with a simpler, more secure passkey authentication experience.
-Passage handles the complexities of [WebAuthn](https://docs.passage.id/home/webauthn), and allows you to implement passkeys with ease on web and native devices. 
+Passage handles the complexities of [WebAuthn](https://docs.passage.id/home/webauthn) and allows you to implement passkeys with ease on web and native devices. 
 
 
 
