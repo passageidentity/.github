@@ -67,17 +67,7 @@ Passage handles the complexities of [WebAuthn](https://docs.passage.id/home/weba
   
 </table>
 
-<br />
-
-<p align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://storage.googleapis.com/passage-docs/github-md-assets/passage-by-1password-dark.png">
-      <source media="(prefers-color-scheme: light)" srcset="https://storage.googleapis.com/passage-docs/github-md-assets/passage-by-1password-light.png">
-      <img alt="Passage by 1Password Logo" src="https://storage.googleapis.com/passage-docs/github-md-assets/passage-by-1password-light.png" width="150px">
-    </picture>
-</p>
-
-<p align="center">
+<p>
     <sub>Passage is a product by <a href="https://1password.com/product/passage" target="_new">1Password</a>, the global leader in access management solutions with nearly 150k business customers.</sub><br />
   <sub>
     <a href="https://console.passage.id/">Passage Console</a> |
