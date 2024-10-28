@@ -78,8 +78,8 @@ Passage handles the complexities of [WebAuthn](https://docs.passage.id/home/weba
 </p>
 
 <p align="center">
-    <sub align="center">Passage is a product by <a href="https://1password.com/product/passage" target="_new">1Password</a>, the global leader in access management solutions with nearly 150k business customers.</sub><br />
-  <sub align="center">
+    <sub>Passage is a product by <a href="https://1password.com/product/passage" target="_new">1Password</a>, the global leader in access management solutions with nearly 150k business customers.</sub><br />
+  <sub>
     <a href="https://console.passage.id/">Passage Console</a> |
     <a href="https://passage.1password.com/blog">Blog</a> |
     <a href="https://passage.1password.com/contact">Contact</a> |
