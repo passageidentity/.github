@@ -2,14 +2,12 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://storage.googleapis.com/passage-docs/github-md-assets/passage-by-1password-dark.png">
       <source media="(prefers-color-scheme: light)" srcset="https://storage.googleapis.com/passage-docs/github-md-assets/passage-by-1password-light.png">
-      <img alt="Passage by 1Password Logo" src="https://storage.googleapis.com/passage-docs/github-md-assets/passage-by-1password-light.png">
+      <img alt="Passage by 1Password Logo" src="https://storage.googleapis.com/passage-docs/github-md-assets/passage-by-1password-light.png" width="200px">
     </picture>
 </p>
 
 [Passage by 1Password](https://1password.com/product/passage) unlocks the passwordless future with a simpler, more secure passkey authentication experience.
-Passage handles the complexities of [WebAuthn](https://docs.passage.id/home/webauthn) and allows you to implement passkeys with ease on web and native devices. 
-
-
+Passage handles the complexities of [WebAuthn](https://docs.passage.id/home/webauthn) and allows you to implement passkeys with ease on web and in native environments. 
 
 <table>
   <tr>
