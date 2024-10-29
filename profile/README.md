@@ -53,7 +53,7 @@ Passage handles the complexities of [WebAuthn](https://docs.passage.id/home/weba
   <tr>
     <td>
         <h3><img src="https://storage.googleapis.com/passage-docs/github-md-assets/passage-passkey-ready-icon.png"> Passkey <b>Ready</b></h3>
-        <a href="https://docs.passage.id/ready" target="_new">Determine if your users are ready for passkeys →</a>
+        <a href="https://docs.passage.id/passkey-ready" target="_new">Determine if your users are ready for passkeys →</a>
         <p>Add a few lines of code to your app or website and Passkey Ready will generate data to determine if your end users are ready for passkeys.</p>
       <sub><b>Passkey Ready Libraries & SDKs</b></sub><br />
       <sub>
